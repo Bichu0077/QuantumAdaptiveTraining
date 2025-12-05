@@ -1,0 +1,9 @@
+__pycache__/
+*.ipynb_checkpoints
+experiments/logs/*
+experiments/results/*
+experiments/plots/*
+paper/figures/*
+.env
+venv/
+.DS_Store
